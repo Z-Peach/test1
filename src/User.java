@@ -1,6 +1,6 @@
 
 public class User {
-//lalala
+//hahah
 	private String name;
 	private String password;
 	public User(String name,String password) {
